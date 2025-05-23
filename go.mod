@@ -1,9 +1,9 @@
-module github.com/payly-solucoes-de-pagamentos/golang-cqrs-dig
+module github.com/raizen/golang-cqrs-dig
 
 go 1.19
 
 require (
-	github.com/payly-solucoes-de-pagamentos/golang-cqrs v1.5.0
+	github.com/raizen/golang-cqrs v1.5.0
 	github.com/stretchr/testify v1.7.1
 	go.uber.org/dig v1.16.1
 )
