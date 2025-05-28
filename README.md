@@ -5,7 +5,7 @@ Methods to register [golang-cqrs](https://github.com/payly-solucoes-de-pagamento
 
 ## Status
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=payly-solucoes-de-pagamentos_golang-cqrs-dig&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=payly-solucoes-de-pagamentos_golang-cqrs-dig) [![![Coverage](https://sonarcloud.io/api/project_badges/measure?project=payly-solucoes-de-pagamentos_golang-cqrs-dig&metric=coverage)](https://sonarcloud.io/summary/new_code?id=payly-solucoes-de-pagamentos_golang-cqrs-dig) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=payly-solucoes-de-pagamentos_golang-cqrs-dig&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=payly-solucoes-de-pagamentos_golang-cqrs-dig)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=payly-solucoes-de-pagamentos_golang-cqrs-dig&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=payly-solucoes-de-pagamentos_golang-cqrs-dig) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=payly-solucoes-de-pagamentos_golang-cqrs-dig&metric=coverage)](https://sonarcloud.io/summary/new_code?id=payly-solucoes-de-pagamentos_golang-cqrs-dig) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=payly-solucoes-de-pagamentos_golang-cqrs-dig&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=payly-solucoes-de-pagamentos_golang-cqrs-dig)
 
 ## Installing
 
