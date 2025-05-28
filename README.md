@@ -1,21 +1,21 @@
 # Go - CQRS Dig
 
-Methods to register [golang-cqrs](https://github.com/raizen/golang-cqrs) assets into [dig](https://github.com/uber-go/dig) container.
+Methods to register [golang-cqrs](https://github.com/payly-solucoes-de-pagamentos/golang-cqrs) assets into [dig](https://github.com/uber-go/dig) container.
 
 
 ## Status
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=raizen_golang-cqrs-dig&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=raizen_golang-cqrs-dig) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=raizen_golang-cqrs-dig&metric=coverage)](https://sonarcloud.io/summary/new_code?id=raizen_golang-cqrs-dig) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=raizen_golang-cqrs-dig&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=raizen_golang-cqrs-dig)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=payly-solucoes-de-pagamentos_golang-cqrs-dig&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=payly-solucoes-de-pagamentos_golang-cqrs-dig) [![![Coverage](https://sonarcloud.io/api/project_badges/measure?project=payly-solucoes-de-pagamentos_golang-cqrs-dig&metric=coverage)](https://sonarcloud.io/summary/new_code?id=payly-solucoes-de-pagamentos_golang-cqrs-dig) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=payly-solucoes-de-pagamentos_golang-cqrs-dig&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=payly-solucoes-de-pagamentos_golang-cqrs-dig)
 
 ## Installing
 
 ```bash
-go get -u github.com/raizen/golang-cqrs-dig
+go get -u github.com/payly-solucoes-de-pagamentos/golang-cqrs-dig
 ```
 
 ## Usage
 
-This package provides methods to register CQRS implementations with dig-injected services. For all the following samples, let's assume that every CQRS implementation receives a `*PingPongService` into the constructor function. To understand how to create the CQRS implementation, please read the documentation available [here](https://github.com/raizen/golang-cqrs/blob/main/README.md).
+This package provides methods to register CQRS implementations with dig-injected services. For all the following samples, let's assume that every CQRS implementation receives a `*PingPongService` into the constructor function. To understand how to create the CQRS implementation, please read the documentation available [here](https://github.com/payly-solucoes-de-pagamentos/golang-cqrs/blob/main/README.md).
 
 Create the service to be injected:
 

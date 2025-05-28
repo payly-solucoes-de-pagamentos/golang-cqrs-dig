@@ -1,7 +1,7 @@
 package cqrs_dig
 
 import (
-	cqrs "github.com/raizen/golang-cqrs"
+	cqrs "github.com/payly-solucoes-de-pagamentos/golang-cqrs"
 	"go.uber.org/dig"
 )
 
